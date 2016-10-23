@@ -1,0 +1,17 @@
+To do 5/12/13:
+
+Add code to send out command/parameters when state/VS is not busy (for a new trial)
+
+
+UDP data for realtime machine
+
+
+Initial data:
+
+1. %s %f, if not exit, then initial data received
+2. %.3f to conver spreadsheet data into an array of numbers --- intial data. What I want to intial data to be?
+3. read vs type, file subname, beh type, necessary?
+
+updating parameters:
+
+1. When trialDone, write TrlDone (%.3f, space, cycle number, space) into host UDP
