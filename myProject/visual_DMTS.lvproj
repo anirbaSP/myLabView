@@ -304,6 +304,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
+		<Item Name="Counter - Read Encoder (Continuous Clock).vi" Type="VI" URL="../Counter - Read Encoder (Continuous Clock).vi"/>
 		<Item Name="Counter - Continuous Output.vi" Type="VI" URL="../Counter - Continuous Output.vi"/>
 		<Item Name="Counter - Single Pulse Output.vi" Type="VI" URL="../Counter - Single Pulse Output.vi"/>
 		<Item Name="audio filter.vi" Type="VI" URL="../audio filter.vi"/>
@@ -326,6 +327,7 @@ AddOutputFilter chunkFilter
 		<Item Name="LickPortPosfilter.vi" Type="VI" URL="../LickPortPosfilter.vi"/>
 		<Item Name="stateMachine_dualVStim.vi" Type="VI" URL="../stateMachine_dualVStim.vi"/>
 		<Item Name="stateMachine_dualVStim_beta.vi" Type="VI" URL="../stateMachine_dualVStim_beta.vi"/>
+		<Item Name="demo_analogInput_counterInput_sameForLoop.vi" Type="VI" URL="../demo_analogInput_counterInput_sameForLoop.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
