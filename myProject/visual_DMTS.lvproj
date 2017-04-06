@@ -207,6 +207,7 @@ AddOutputFilter chunkFilter
 		<Item Name="LickPortPosfilter.vi" Type="VI" URL="../LickPortPosfilter.vi"/>
 		<Item Name="stateMachine_dualVStim_beta.vi" Type="VI" URL="../stateMachine_dualVStim_beta.vi"/>
 		<Item Name="demo_analogInput_counterInput_sameForLoop.vi" Type="VI" URL="../demo_analogInput_counterInput_sameForLoop.vi"/>
+		<Item Name="stateMachine_dualVStim.vi" Type="VI" URL="../stateMachine_dualVStim.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
